@@ -7,6 +7,7 @@
 
 <hr>
 <br>
+[![@cyrilmishra's Holopin board](https://holopin.me/cyrilmishra)](https://holopin.io/@cyrilmishra)
 <br>
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
